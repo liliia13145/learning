@@ -1,4 +1,4 @@
-package ru.liliia.learning.stepik.inputdata;
+package ru.liliia.learning.stepik.basics.inputdata;
 
 import java.util.Scanner;
 
